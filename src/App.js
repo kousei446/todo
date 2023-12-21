@@ -4,6 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <div>きよや参上お前のcodeを乗っ取りに来た</div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
